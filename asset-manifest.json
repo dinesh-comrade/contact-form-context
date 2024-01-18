@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contact-form-context/static/css/main.cf72edfa.css",
+    "main.js": "/contact-form-context/static/js/main.46b7f8a8.js",
+    "static/media/main_logo.png": "/contact-form-context/static/media/main_logo.56a15f21d16eeaa69d86.png",
+    "index.html": "/contact-form-context/index.html",
+    "main.cf72edfa.css.map": "/contact-form-context/static/css/main.cf72edfa.css.map",
+    "main.46b7f8a8.js.map": "/contact-form-context/static/js/main.46b7f8a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf72edfa.css",
+    "static/js/main.46b7f8a8.js"
+  ]
+}
